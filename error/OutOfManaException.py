@@ -1,0 +1,2 @@
+class OutOfManaException(Exception):
+    pass
